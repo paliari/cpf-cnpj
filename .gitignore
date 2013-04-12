@@ -18,6 +18,7 @@ Thumbs.db
 *.tar
 *.zip
 .idea/
+.idea
 .buildpath
 .project
 .settings/
