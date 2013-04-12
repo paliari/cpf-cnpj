@@ -1,0 +1,28 @@
+{
+    "name": "cpf-cnpj",
+    "version": "0.1.4",
+    "description": "Mascara e Validador de CPF/CNPJ utilizando Bootstrap e jQuery.",
+    "homepage": "http://paliari.com.br",
+    "license": "MIT",
+    "main": "./assets/js/cpf-cnpj.js",
+    "keywords": [
+        "cpf",
+        "cnpj",
+        "validation",
+        "validacao",
+        "validação",
+        "cpf/cnpj"
+    ],
+    "author": {
+        "name": "Marcos A Paliari  ",
+        "email": "marcos@paliari.com.br",
+        "web": "http://www.paliari.com.br/"
+    },
+    "bugs": {
+        "url": "https://github.com/paliari/cpf-cnpj/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/paliari/cpf-cnpj.git"
+    }
+}
