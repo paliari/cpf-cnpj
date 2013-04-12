@@ -17,8 +17,13 @@ Thumbs.db
 *.rar
 *.tar
 *.zip
+<<<<<<< HEAD
 .idea
 .idea/
+=======
+.idea/
+.idea
+>>>>>>> release/0.1.3
 .buildpath
 .project
 .settings/
