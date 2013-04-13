@@ -18,7 +18,10 @@ Thumbs.db
 *.tar
 *.zip
 .idea/
+<<<<<<< HEAD
 .idea
+=======
+>>>>>>> 11bab32c9b3087b7ba9c143655ec277bc0d0cd61
 .buildpath
 .project
 .settings/
@@ -36,4 +39,8 @@ app/assets/*.js
 !app/assets/app.js
 app/app.appcache
 app/version
+<<<<<<< HEAD
 app/denuncias
+=======
+app/denuncias
+>>>>>>> 11bab32c9b3087b7ba9c143655ec277bc0d0cd61
